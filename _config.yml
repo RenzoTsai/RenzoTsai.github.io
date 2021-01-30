@@ -20,11 +20,11 @@ title                    : "Renzone"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Runze Cai"
-description              : "An amazing website."
+description              : "Personal Blog"
 url                      : "https://runze.xyz"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RenzoTsai/RenzoTsai.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/RenZone-logo.png"
 logo                     : "/assets/images/RenZone-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Runze Cai"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an undergraduate student at the UCAS."
+  bio              : "Undergraduate student @ UCAS."
   location         : "Beijing, China"
   email            : "cai@m.runze.xyz"
   links:
