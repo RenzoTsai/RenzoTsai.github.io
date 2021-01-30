@@ -24,8 +24,8 @@ description              : "Personal Blog"
 url                      : "https://runze.xyz"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "RenzoTsai/RenzoTsai.github.io"
-teaser                   : "/assets/images/RenZone-logo.png"
-logo                     : "/assets/images/RenZone-logo.png"
+teaser                   : #
+logo                     : "/assets/image/RenZone-logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
